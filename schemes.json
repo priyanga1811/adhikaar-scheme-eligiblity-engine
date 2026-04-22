@@ -1,0 +1,209 @@
+[
+  {
+    "scheme_name": "Indira Gandhi National Widow Pension Scheme (IGNWPS)",
+    "category": "widow pension",
+    "state": ["all"],
+    "eligibility_criteria": "Must be a widow aged 40 or above, living below the poverty line.",
+    "required_documents": [
+      "Aadhaar Card",
+      "BPL Ration Card",
+      "Husband's Death Certificate",
+      "Bank Account Passbook",
+      "Age Proof"
+    ],
+    "benefit_summary": "Financial assistance of ₹300/month (varies by state) to widows below the poverty line.",
+    "application_steps": [
+      "Visit the nearest Gram Panchayat or Block Office.",
+      "Obtain the IGNWPS application form.",
+      "Fill the form and attach the required documents.",
+      "Submit to the Social Welfare Department officer."
+    ],
+    "official_apply_link": "https://nsap.nic.in/",
+    "match_keywords": ["widow", "pension", "death", "bpl", "female"],
+    "income_limit": 100000,
+    "age_limit": {"min": 40, "max": 120},
+    "gender": ["female"],
+    "marital_status": ["widow"],
+    "occupation": ["any"],
+    "priority_score": 100
+  },
+  {
+    "scheme_name": "Pradhan Mantri Shram Yogi Maan-dhan (PM-SYM)",
+    "category": "employment",
+    "state": ["all"],
+    "eligibility_criteria": "Unorganized sector workers aged 18-40 years with a monthly income of ₹15,000 or less.",
+    "required_documents": [
+      "Aadhaar Card",
+      "Savings Bank Account / Jan Dhan Account with IFSC"
+    ],
+    "benefit_summary": "Assured monthly pension of ₹3000 after attaining the age of 60 years.",
+    "application_steps": [
+      "Visit nearest Common Service Centre (CSC).",
+      "Carry Aadhaar and Bank account details.",
+      "Make the initial contribution amount in cash to the Village Level Entrepreneur (VLE)."
+    ],
+    "official_apply_link": "https://maandhan.in/",
+    "match_keywords": ["worker", "unorganized", "pension", "labour", "employment"],
+    "income_limit": 180000,
+    "age_limit": {"min": 18, "max": 40},
+    "gender": ["male", "female", "other"],
+    "marital_status": ["any"],
+    "occupation": ["unorganized", "worker", "farmer", "unemployed", "labourer"],
+    "priority_score": 80
+  },
+  {
+    "scheme_name": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+    "category": "women",
+    "state": ["all"],
+    "eligibility_criteria": "Adult women belonging to BPL households with no existing LPG connection.",
+    "required_documents": [
+      "Aadhaar Card",
+      "Ration Card",
+      "Bank Account Details",
+      "Passport Size Photograph"
+    ],
+    "benefit_summary": "Provides a deposit-free LPG connection to women from BPL households.",
+    "application_steps": [
+      "Download the application form from PMUY website or collect it from nearest LPG distributor.",
+      "Fill the form and submit it at the LPG distributor office.",
+      "Document verification will be done before issuing connection."
+    ],
+    "official_apply_link": "https://www.pmuy.gov.in/",
+    "match_keywords": ["gas", "cylinder", "lpg", "women", "bpl", "ujjwala"],
+    "income_limit": 100000,
+    "age_limit": {"min": 18, "max": 120},
+    "gender": ["female"],
+    "marital_status": ["any"],
+    "occupation": ["any"],
+    "priority_score": 90
+  },
+  {
+    "scheme_name": "Pradhan Mantri Awas Yojana (PMAY)",
+    "category": "housing",
+    "state": ["all"],
+    "eligibility_criteria": "Economically weaker sections or lower income groups needing housing assistance.",
+    "required_documents": [
+      "Aadhaar Card",
+      "Income Proof",
+      "Property Documents",
+      "Bank Statement"
+    ],
+    "benefit_summary": "Credit linked subsidy scheme for buying or building a pucca house.",
+    "application_steps": [
+      "Apply online on PMAY portal or through CSCs.",
+      "Fill application with Aadhaar details.",
+      "Apply for home loan at banks/HFCs claiming PMAY subsidy."
+    ],
+    "official_apply_link": "https://pmaymis.gov.in/",
+    "match_keywords": ["house", "home", "subsidy", "loan", "construction", "housing"],
+    "income_limit": 1800000,
+    "age_limit": {"min": 18, "max": 120},
+    "gender": ["male", "female", "other"],
+    "marital_status": ["any"],
+    "occupation": ["any"],
+    "priority_score": 85
+  },
+  {
+    "scheme_name": "PM Kisan Samman Nidhi",
+    "category": "farmer",
+    "state": ["all"],
+    "eligibility_criteria": "All landholding farmers' families having cultivable land.",
+    "required_documents": [
+      "Aadhaar Card",
+      "Land Ownership Documents",
+      "Bank Account Details"
+    ],
+    "benefit_summary": "Income support of ₹6,000 per year in three equal installments.",
+    "application_steps": [
+      "Visit PM Kisan portal and click on 'New Farmer Registration'.",
+      "Enter Aadhaar number and fill the required details.",
+      "Submit for approval by state nodal officers."
+    ],
+    "official_apply_link": "https://pmkisan.gov.in/",
+    "match_keywords": ["farmer", "agriculture", "land", "kisan", "cultivation"],
+    "income_limit": 5000000,
+    "age_limit": {"min": 18, "max": 120},
+    "gender": ["male", "female", "other"],
+    "marital_status": ["any"],
+    "occupation": ["farmer", "agriculture"],
+    "priority_score": 95
+  },
+  {
+    "scheme_name": "National Scholarship Portal (NSP)",
+    "category": "student",
+    "state": ["all"],
+    "eligibility_criteria": "Students from minority communities or economically weaker sections pursuing higher education.",
+    "required_documents": [
+      "Aadhaar Card",
+      "Previous Year Marksheet",
+      "Income Certificate",
+      "Bank Passbook"
+    ],
+    "benefit_summary": "Financial assistance covering tuition fees and maintenance allowance for students.",
+    "application_steps": [
+      "Register on the National Scholarship Portal.",
+      "Fill the application form with personal and academic details.",
+      "Upload required documents and submit for institution verification."
+    ],
+    "official_apply_link": "https://scholarships.gov.in/",
+    "match_keywords": ["student", "education", "school", "college", "scholarship", "study"],
+    "income_limit": 250000,
+    "age_limit": {"min": 5, "max": 30},
+    "gender": ["male", "female", "other"],
+    "marital_status": ["single", "any"],
+    "occupation": ["student"],
+    "priority_score": 90
+  },
+  {
+    "scheme_name": "Indira Gandhi National Old Age Pension Scheme (IGNOAPS)",
+    "category": "senior citizen",
+    "state": ["all"],
+    "eligibility_criteria": "Citizens aged 60 years or above belonging to a BPL household.",
+    "required_documents": [
+      "Aadhaar Card",
+      "Age Proof",
+      "BPL Ration Card",
+      "Bank Account Details"
+    ],
+    "benefit_summary": "Monthly pension of ₹200 to ₹500 depending on age and state contributions.",
+    "application_steps": [
+      "Collect application form from the Social Welfare Department or Block Office.",
+      "Submit the filled form with age and income proofs.",
+      "Approval is done at the district or panchayat level."
+    ],
+    "official_apply_link": "https://nsap.nic.in/",
+    "match_keywords": ["old age", "senior citizen", "pension", "elderly", "60 plus"],
+    "income_limit": 100000,
+    "age_limit": {"min": 60, "max": 120},
+    "gender": ["male", "female", "other"],
+    "marital_status": ["any"],
+    "occupation": ["any"],
+    "priority_score": 95
+  },
+  {
+    "scheme_name": "Deendayal Disabled Rehabilitation Scheme (DDRS)",
+    "category": "disability",
+    "state": ["all"],
+    "eligibility_criteria": "Persons with disabilities needing rehabilitation services.",
+    "required_documents": [
+      "Disability Certificate",
+      "Aadhaar Card",
+      "Income Certificate",
+      "Passport Size Photos"
+    ],
+    "benefit_summary": "Financial assistance provided through NGOs for education, vocational training, and rehabilitation of disabled persons.",
+    "application_steps": [
+      "Identify a local NGO funded under DDRS.",
+      "Register with the NGO for required rehabilitation services.",
+      "Provide necessary documents like disability certificate."
+    ],
+    "official_apply_link": "https://disabilityaffairs.gov.in/",
+    "match_keywords": ["disabled", "handicap", "rehabilitation", "special needs", "divyang"],
+    "income_limit": 300000,
+    "age_limit": {"min": 0, "max": 120},
+    "gender": ["male", "female", "other"],
+    "marital_status": ["any"],
+    "occupation": ["any"],
+    "priority_score": 85
+  }
+]
