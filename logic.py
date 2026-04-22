@@ -1,14 +1,3 @@
-None selected
-
-Skip to content
-Using Gmail with screen readers
-in:sent
-3 of 75
-logic.py
-
-Sadhana <mksadhana006@gmail.com>
-9:18 PM (1 hour ago)
-to Priyanga
 
 import json
 def load_schemes():
